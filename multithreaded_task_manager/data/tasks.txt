@@ -1,0 +1,10 @@
+
+===🧾 All Tasks ====
+
+🔹 [HIGH]:
+	16:43 - Jouer
+🔹 [MEDIUM]:
+	16:41 - Boire
+🔹 [LOW]:
+	16:40 - Manger
+	16:42 - Dormir
