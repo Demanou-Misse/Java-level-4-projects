@@ -1,0 +1,10 @@
+package converter.enums;
+
+public enum TemperatureUnit {
+    CELSIUS_TO_FAHRENHEIT,
+    FAHRENHEIT_TO_CELSIUS,
+    CELSIUS_TO_KELVIN,
+    KELVIN_TO_CELSIUS,
+    FAHRENHEIT_TO_KELVIN,
+    KELVIN_TO_FAHRENHEIT
+}
